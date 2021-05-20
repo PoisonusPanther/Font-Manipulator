@@ -1,0 +1,19 @@
+.header{
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px 5px 5px gray;
+    font-size: 23px;
+}
+.note{
+    color: black;
+    font-size: 13px;    
+}
+.copy_right_div{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    box-shadow: 5px 5px 5px gray;
+    color: white;
+    background-color: gray; 
+}
